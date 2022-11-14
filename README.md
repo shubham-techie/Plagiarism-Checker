@@ -1,2 +1,2 @@
 # Plagiarism-Checker
-Script for Plagiarism Checker with NLP.
+Python script for Plagiarism Checker with NLP.
